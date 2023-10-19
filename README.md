@@ -63,7 +63,7 @@ if __name__ == '__main__':
 
 
 ## Perkembangan
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
 
 Room for improvement:
 - Improvement to be done 1
