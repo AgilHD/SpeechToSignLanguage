@@ -1,13 +1,12 @@
-# Project Name
+
 > Alat penerjemah ke bahasa isyarat
 
 ## Table of Contents
 * [Deskripsi umum](#deskripsi-umum)
-* [Teknologi yang digunakan](#technologies-used)
+* [Bahasa yang Digunakan](#bahasa-yang-digunakan)
 * [Fitur](#fitur)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Contact](#contact)
+* [Cara pemakaian](#cara-pemakaian)
+* [Referensi](#referensi)
 
 
 
@@ -17,7 +16,7 @@
 
 
 
-## Teknologi yang digunakan
+## Bahasa yang digunakan
 - Phyton
 - HTML
 - Shell
@@ -28,12 +27,12 @@
 
 
 
-## Setup
-Django==4.0.1
-django-environ==0.8.1
-gunicorn
-nltk``
+## Cara pemakaian
+- Jalankan kode program
+- ucapkan kata-kata yang ingin kita sampaikan
+- program akan menerjemahkan kata-kata tersebut menjadi bahasa isyarat
 
+## Referensi
 
 
 
