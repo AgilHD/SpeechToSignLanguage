@@ -1,7 +1,7 @@
 
 > Alat penerjemah ke bahasa isyarat
 
-## Table of Contents
+## Daftar isi
 * [Deskripsi umum](#deskripsi-umum)
 * [Bahasa yang Digunakan](#bahasa-yang-digunakan)
 * [Fitur](#fitur)
@@ -34,7 +34,7 @@
 
 ## Referensi
 
-
+https://github.com/siddharth-h-shankar/SpeechToSignLanguage
 
 
 
